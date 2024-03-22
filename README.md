@@ -9,6 +9,10 @@
 ### 📫 How to Reach Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%AA-de-souza-silva-62903421a/)  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaue.moelas.com@gmail.com)
 
+### Skills in Languages and Technologies
+
+<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/32/000000/python.png"/> <img src="https://img.icons8.com/color/32/000000/sql.png"/> <img src="https://img.icons8.com/color/32/000000/javascript.png"/> <img src="https://img.icons8.com/color/32/000000/css3.png"/>
+
 ### 👀 Interests  
 Exploring the dynamic world of cloud computing, particularly in AWS (Amazon Web Services). Passionate about mastering various programming languages and frameworks, including C# .NET ASP MVC and Python.
 
