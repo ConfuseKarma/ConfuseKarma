@@ -11,11 +11,11 @@
 ## 🌍 About Me  
 
 - 🏫 **Computer Engineering Student** at Eng. Salvador Arena College  
-- 🔥 Passionate about **DevOps, Cloud Computing, and Cybersecurity**  
+- 🔥 Passionate about **Programming, DevOps, Cloud Computing, and Cybersecurity**  
 - 💡 Always learning new **technologies and automation tools**  
 - 🗣️ Fluent in **English & Portuguese** | Intermediate in **Spanish**  
-- 🎯 Focused on **building scalable solutions and improving security**  
-
+- 🎯 Focused on **improving my programming skills and knowledge as a future computer engineer, building scalable solutions and improving security**  
+- 🎮💻 Games and Animes enthusiast!
 ---
 
 ## 📈 GitHub Stats  
