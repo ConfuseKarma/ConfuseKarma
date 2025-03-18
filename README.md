@@ -59,14 +59,14 @@
 </div>
 
 ---
-
+<!--
 ## 🚀 Recent Projects  
 
 1. [🔍 **CloudVision Arista Automation**](https://github.com/ConfuseKarma/cloudvision-automation) – Automating switch and leaf monitoring with Python  
 2. [🎬 **Movie Review Platform (PBL-EC6)**](https://github.com/ConfuseKarma/movie-review) – Java Spring project with user roles & authentication  
 3. [☁️ **IoT Facial Recognition System**](https://github.com/ConfuseKarma/iot-facial-recognition) – Integrated with FIWARE & Cloud  
 4. [📡 **Cybersecurity Threat Detection**](https://github.com/ConfuseKarma/threat-detection) – CrowdStrike & ZScaler security automation  
-
+-->
 ---
 
 ## 📌 Interests  
