@@ -83,7 +83,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kau%C3%AA-de-souza-silva-62903421a/" target="_blank">
-    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)<img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+    <img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kaue.moelas.com@gmail.com" target="_blank">
     <img height="40" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
