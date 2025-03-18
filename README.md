@@ -14,7 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfuseKarma&show_icons=true&theme=tokyonight)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&amp;theme=github_dark&amp;layout=compact)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&hide=css,scss,html&theme=tokyonight;layout=compact")
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&amp&theme=tokyonight;layout=compact")
 
  
 
