@@ -12,7 +12,8 @@
 <img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/32/000000/python.png"/> <img src="https://img.icons8.com/color/32/000000/sql.png"/> <img src="https://img.icons8.com/color/32/000000/javascript.png"/> <img src="https://img.icons8.com/color/32/000000/css3.png"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfuseKarma&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&show_icons=true&theme=tokyonight)](https://github.com/ConfuseKarma/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&hide=css,scss,html&theme=tokyonight)
+
 
 
 
