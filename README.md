@@ -1,7 +1,7 @@
 # **Kauê de Souza Silva - My Profile**  
 
 ### 👋 Hi, I'm Kauê de Souza Silva  
-- 20 year-old Computer Engineering Student 🎓 from Brazil.
+- 21 year-old Computer Engineering Student🎓 from Brazil
 - Fluent in English, Portuguese and Intermediate Spanish
 
 ### 📫 How to Reach Me  
@@ -14,23 +14,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfuseKarma&show_icons=true&theme=tokyonight)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&hide=css,scss,html&theme=tokyonight)
 
-
-
-
 ### 👀 Interests  
 Exploring the dynamic world of cloud computing, particularly in AWS (Amazon Web Services). Passionate about mastering various programming languages and frameworks, including C# .NET ASP MVC and Python.
 
 ### 🌱 Currently Learning  
-Information technology systems, cybersecurity, full-stack development, and MVC .Net programming. Committed to deepening understanding in these crucial areas.
+DevOps applications, AWS Cloud Computing and solutions, cybersecurity, full-stack development, and improving MVC .Net programming. Committed to deepening understanding in these crucial areas.
 
 ### 💼 Career Aspirations  
 Architecting scalable and efficient solutions leveraging cloud technologies. Interested in roles spanning DevOps, cybersecurity, and broader software development.
 
-### 💞️ Looking to Collaborate  
+### 🤝 Looking to Collaborate  
 Interested in collaborating on interesting projects to gain experience and develop my career.
 
-### 😄 Pronouns  
-He/Him
-
-### ⚡ Fun Fact  
-...
