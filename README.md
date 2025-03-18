@@ -4,10 +4,8 @@
 - 20 year-old Computer Engineering Student 🎓 from Brazil.
 - Fluent in English, Portuguese and Intermediate Spanish
 
-<!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfuseKarma&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma)](https://github.com/ConfuseKarma/github-readme-stats)
----> 
 
 ### 📫 How to Reach Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%AA-de-souza-silva-62903421a/)  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaue.moelas.com@gmail.com)
