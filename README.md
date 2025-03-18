@@ -9,7 +9,9 @@
 
 ### Skills in Languages and Technologies
 
-<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/32/000000/python.png"/> <img src="https://img.icons8.com/color/32/000000/sql.png"/> <img src="https://img.icons8.com/color/32/000000/javascript.png"/> <img src="https://img.icons8.com/color/32/000000/css3.png"/>
+<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/32/000000/python.png"/> <img src="https://img.icons8.com/color/32/000000/sql.png"/> <img src="https://img.icons8.com/color/32/000000/javascript.png"/> <img src="https://img.icons8.com/color/32/000000/css3.png"/> <img src=<img src="https://icons8.com/icon/13679/java"/>
+"https://img.icons8.com/color/32/000000/react-native.png"/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfuseKarma&show_icons=true&theme=tokyonight)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&hide=css,scss,html&theme=tokyonight)
