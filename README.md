@@ -1,51 +1,97 @@
-# **Kauê de Souza Silva - My Profile**  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+# Hello, I’m Kauê de Souza Silva! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+  
+<p align="center">
+  <a href="https://github.com/ConfuseKarma">
+    <img src="https://readme-typing-svg.demolab.com/?lines=DEVOPS%20ENGINEER;CLOUD%20COMPUTING%20ENTHUSIAST;SOFTWARE%20DEVELOPER;CYBERSECURITY%20ANALYST;ALWAYS%20LEARNING%20NEW%20TECHNOLOGIES&font=fira%20Code&center=true&width=600&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 
-### 👋 Hi, I'm Kauê de Souza Silva  
-- 21 year-old Computer Engineering Student🎓 from Brazil
-- Fluent in English, Portuguese and Intermediate Spanish
+---
 
-### 📫 How to Reach Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%AA-de-souza-silva-62903421a/)  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaue.moelas.com@gmail.com)
+## 🌍 About Me  
 
-### Skills in Languages and Technologies
+- 🏫 **Computer Engineering Student** at Eng. Salvador Arena College  
+- 🔥 Passionate about **DevOps, Cloud Computing, and Cybersecurity**  
+- 💡 Always learning new **technologies and automation tools**  
+- 🗣️ Fluent in **English & Portuguese** | Intermediate in **Spanish**  
+- 🎯 Focused on **building scalable solutions and improving security**  
+
+---
+
+## 📈 GitHub Stats  
 
 <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,nodejs,js,jquery,java" />
-    </a>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,pycharm,tensorflow,opencv" />
-    </a>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,github,git,githubactions,gitlab,kali" />
-    </a>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,postman,mysql,mongodb,sqlite" />
-    </a>    
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,selenium" />
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&theme=github_dark&layout=compact" width="48%"/>
+</p>
+<p align="center">
+  <a href="https://github.com/ConfuseKarma?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ConfuseKarma&theme=github_dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@ConfuseKarma's GitHub stats">
+  </a>
+  <a href="https://github.com/ConfuseKarma?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ConfuseKarma&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@ConfuseKarma's GitHub streak stats">
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+
+<div align="center">
+  <h3>Languages & Frameworks</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,nodejs,js,jquery,java,py,pycharm" />
   </p>
 
+  <h3>DevOps & Cloud</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,gitlab" />
+  </p>
 
+  <h3>Databases & Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postman,selenium,figma" />
+  </p>
 
+  <h3>Cybersecurity & Other Skills</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=kali,opencv,tensorflow" />
+  </p>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfuseKarma&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&amp;theme=github_dark&amp;layout=compact) 
+---
 
-### 👀 Interests  
-Exploring the dynamic world of cloud computing, particularly in AWS (Amazon Web Services). Passionate about mastering various programming languages and frameworks, including C# .NET ASP MVC and Python.
+## 🚀 Recent Projects  
 
-### 🌱 Currently Learning  
-DevOps applications, AWS Cloud Computing and solutions, cybersecurity, full-stack development, and improving MVC .Net programming. Committed to deepening understanding in these crucial areas.
+1. [🔍 **CloudVision Arista Automation**](https://github.com/ConfuseKarma/cloudvision-automation) – Automating switch and leaf monitoring with Python  
+2. [🎬 **Movie Review Platform (PBL-EC6)**](https://github.com/ConfuseKarma/movie-review) – Java Spring project with user roles & authentication  
+3. [☁️ **IoT Facial Recognition System**](https://github.com/ConfuseKarma/iot-facial-recognition) – Integrated with FIWARE & Cloud  
+4. [📡 **Cybersecurity Threat Detection**](https://github.com/ConfuseKarma/threat-detection) – CrowdStrike & ZScaler security automation  
 
-### 💼 Career Aspirations  
-Architecting scalable and efficient solutions leveraging cloud technologies. Interested in roles spanning DevOps, cybersecurity, and broader software development.
+---
 
-### 🤝 Looking to Collaborate  
-Interested in collaborating on interesting projects to gain experience and develop my career.
+## 📌 Interests  
 
+- ☁ **Cloud Engineering** | AWS, GCP & Azure  
+- 🔧 **DevOps & Automation** | CI/CD, Terraform, Ansible  
+- 🔐 **Cybersecurity & Threat Intelligence** | CrowdStrike, ZScaler  
+- 📊 **Data Analytics & AI** | Machine Learning, Big Data  
+- 💻 **Full-Stack Development** | Java Spring, .NET, Python  
+
+---
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kau%C3%AA-de-souza-silva-62903421a/" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kaue.moelas.com@gmail.com" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
