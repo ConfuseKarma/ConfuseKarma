@@ -14,6 +14,27 @@
 [![My Skills](https://skillicons.dev/icons?i=github,git,gitlab)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,nodejs,js,jquery,java" />
+    </a>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,pycharm,tensorflow,opencv" />
+    </a>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,github,git,githubactions,gitlab,kali" />
+    </a>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,azure,postman,mysql,mongodb,sqlite" />
+    </a>    
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma,selenium" />
+    </a>
+  </p>
 
 
 
