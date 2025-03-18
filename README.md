@@ -9,7 +9,14 @@
 
 ### Skills in Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,python,aws,docker,github,git,gitlab,js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,python,react,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfuseKarma&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&amp;theme=github_dark&amp;layout=compact) 
