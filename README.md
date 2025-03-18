@@ -9,11 +9,6 @@
 
 ### Skills in Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,python,react,js,dotnet,mysql,kali)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github,git,gitlab)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
-
 <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cs,dotnet,react,angular,nodejs,js,jquery,java" />
@@ -28,7 +23,7 @@
     </a>
     <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws,azure,postman,mysql,mongodb,sqlite" />
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,postman,mysql,mongodb,sqlite" />
     </a>    
     <br>
     <a href="https://skillicons.dev">
