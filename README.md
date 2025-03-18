@@ -54,7 +54,7 @@
 
   <h3>Cybersecurity & Other Skills</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=kali,opencv,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,opencv,tensorflow" />
   </p>
 </div>
 
