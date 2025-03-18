@@ -9,10 +9,10 @@
 
 ### Skills in Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,python,react,js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github,git,gitlab)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+##[![My Skills](https://skillicons.dev/icons?i=cs,java,python,react,js,dotnet,mysql,kali)](https://skillicons.dev)
+##[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker)](https://skillicons.dev)
+##[![My Skills](https://skillicons.dev/icons?i=github,git,gitlab)](https://skillicons.dev)
+##[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
 
 
