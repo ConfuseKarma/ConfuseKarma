@@ -2,7 +2,7 @@
   
 <p align="center">
   <a href="https://github.com/ConfuseKarma">
-    <img src="https://readme-typing-svg.demolab.com/?lines=DEVOPS%20ENGINEER;CLOUD%20COMPUTING%20ENTHUSIAST;SOFTWARE%20DEVELOPER;CYBERSECURITY%20ANALYST;ALWAYS%20LEARNING%20NEW%20TECHNOLOGIES&font=fira%20Code&center=true&width=600&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=DEVOPS%20ENGINEER;CLOUD%20COMPUTING%20ENTHUSIAST;SOFTWARE%20DEVELOPER;CYBERSECURITY%20ANALYST;ALWAYS%20LEARNING%20NEW%20TECHNOLOGIES&font=fira%20Code&center=true&width=600&height=35&color=023E8A&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
