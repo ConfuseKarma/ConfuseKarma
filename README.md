@@ -9,8 +9,7 @@
 
 ### Skills in Languages and Technologies
 
-<img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/32/000000/python.png"/> <img src="https://img.icons8.com/color/32/000000/sql.png"/> <img src="https://img.icons8.com/color/32/000000/javascript.png"/> <img src="https://img.icons8.com/color/32/000000/css3.png"/>
-<img src="https://img.icons8.com/color/32/000000/react-native.png"/> <img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png"/>
+[![My Skills](https://skillicons.dev/icons?i=cs,java,python,aws,docker,github,git,gitlab,js,html,css,bootstrap)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfuseKarma&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&amp;theme=github_dark&amp;layout=compact) 
