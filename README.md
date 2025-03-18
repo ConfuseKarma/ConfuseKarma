@@ -13,10 +13,7 @@
 <img src="https://img.icons8.com/color/32/000000/react-native.png"/> <img src="https://img.icons8.com/color/32/000000/java-coffee-cup-logo.png"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConfuseKarma&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&amp;theme=github_dark&amp;layout=compact)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&amp&theme=tokyonight;layout=compact")
-
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConfuseKarma&amp;theme=github_dark&amp;layout=compact) 
 
 ### 👀 Interests  
 Exploring the dynamic world of cloud computing, particularly in AWS (Amazon Web Services). Passionate about mastering various programming languages and frameworks, including C# .NET ASP MVC and Python.
