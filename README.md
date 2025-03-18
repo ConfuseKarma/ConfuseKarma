@@ -1,4 +1,4 @@
-# **Kauê de Souza Silva - My Profile**  
+# **Kauê de Souza Silva - My Profile**  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 
 ### 👋 Hi, I'm Kauê de Souza Silva  
 - 21 year-old Computer Engineering Student🎓 from Brazil
@@ -9,10 +9,10 @@
 
 ### Skills in Languages and Technologies
 
-##[![My Skills](https://skillicons.dev/icons?i=cs,java,python,react,js,dotnet,mysql,kali)](https://skillicons.dev)
-##[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker)](https://skillicons.dev)
-##[![My Skills](https://skillicons.dev/icons?i=github,git,gitlab)](https://skillicons.dev)
-##[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,python,react,js,dotnet,mysql,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
 
 
