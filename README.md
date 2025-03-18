@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills & Technologies  
 
 <div align="center">
   <h3>Languages & Frameworks</h3>
